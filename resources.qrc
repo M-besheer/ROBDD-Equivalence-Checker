@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Images/happy_spongebob.png</file>
+    <file>Images/sad_spongebob.png</file>
+    <file>Images/img.png</file>
+    <file>Images/Photo.jpg</file>
+  </qresource>
+</RCC>
